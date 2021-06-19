@@ -1,15 +1,16 @@
 {
-  "title": "Hadaka Yorimo Okufukaku (2017) / More Than Just the Physical",
-  "description": "Bir üniversitede masa başı işe sahip olan Hagiwara, gittiği bir Club'tan tanıştığı Yuto ile ayrılır. Yuto deneyimsizliğini dile getirir ve Hagiwara, onun yakışıklılığından ve ateşli vücudundan etkilenerek dizginleri eline alır. Daha sonra ,ne kadar isteksiz olsalar da, birlikte geçirdikleri keyifli gece sonlanır... Ve yolları aniden beklenmedik bir yerde tekrar kesişir! Hagiwara'nın yaşadığı şoka rağmen Yuto, soğukkanlı bir şekilde seks arkadaşı olmalarını önerir...  ",
-  "artist": "Usui Iroha",
-  "author": "Usui Iroha",
-  "cover": "https://64.media.tumblr.com/8d15d7eeb789a53d948422e67e65353c/6b146387cb4ab951-69/s1280x1920/f479f09d20caa628363f6a7515891e76caf6b7ac.jpg",
+  "title": "Joukakei Kareshi (2015)",
+  "description": "1-2. Erkek arkadaşı Shichiku tarafından terk edilen ve hayal kırıklığına uğramış olan Omega Bandai-san ve Beta Nagaoka-san'nın ilişkisine odaklanılıyor.
+3-6. Bir Beta olan Shichiku, etrafındaki diğer Alfalara karşı kaybetmeye devam ediyor... Bu süreçte yalanlarına ve acımasız davranışlarına rağmen, nazik ve onu seven bir Omega olan Nagisa-san ile ilişkileri konu alınıyor.  ",
+  "artist": "Satomaru Mami",
+  "author": "Satomaru Mami",
+  "cover": "https://64.media.tumblr.com/8851795a9e610b9f8f6ef1f7d06e8bed/fd386861b495202a-45/s1280x1920/41cfb7cfacd44a3a287753b2932c135bd597fd62.jpg",
   "chapters": {
     "1": {
       "title": "Bölüm",
       "volume": "1",
       "groups": {
-        "Luna Scans TR": "/proxy/api/imgur/chapter/i90h7rB/"
+        "Luna Scans TR": "/proxy/api/imgur/chapter/HNPEbD9/"
       },
       "last_updated": "1623969510"
     },
@@ -17,7 +18,7 @@
       "title": "Bölüm",
       "volume": "1",
       "groups": {
-        "Luna Scans TR": "/proxy/api/imgur/chapter/7hUw2he/"
+        "Luna Scans TR": "/proxy/api/imgur/chapter/xrsITBk/"
       },
       "last_updated": "1623969510"
     },
@@ -39,7 +40,7 @@
       "last_updated": "1623969510"
     },
     "5": {
-      "title": "Bölüm - Son",
+      "title": "Bölüm",
       "volume": "1",
       "groups": {
         "Luna Scans TR": "/proxy/api/imgur/chapter/xeUoOHD/"
@@ -47,10 +48,18 @@
       "last_updated": "1623969510"
     },
     "6": {
-      "title": "Bölüm (Ekstra)",
+      "title": "Bölüm - Son",
       "volume": "1",
       "groups": {
         "Luna Scans TR": "/proxy/api/imgur/chapter/ohL8Oh1/"
+      },
+      "last_updated": "1623969510"
+    },
+    "6.5": {
+      "title": "Bölüm (Ekstra)",
+      "volume": "1",
+      "groups": {
+        "Luna Scans TR": "/proxy/api/imgur/chapter/8h3dR71/"
       },
       "last_updated": "1623969510"
     }
